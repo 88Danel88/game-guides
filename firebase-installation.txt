@@ -1,0 +1,14 @@
+======================================
+Episode#17
+Installing Firebase Cloud Functions
+======================================
+1. npm install firebase-tools -g
+2. firebase init functions
+3. are you ready to proceed? Y
+4. Link to your project
+5. Choose Javascript
+6. use ESLint? No
+7. install dependencies? Y
+======================================
+
+
